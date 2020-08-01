@@ -23,7 +23,7 @@ This category involves understanding how the Telcomunication company interacts w
 Data analysis in this category is performed mainly through;
 * Computation of Aggregations and
 * Using K-Means Clustering technique
-<img src="images/experience_cluster.png">
+<img src="/images/experience_cluster.png">
 
 ### User Experience Analysis
 These analysis helps the telecommunication company/industry understand the needs and requirements of their users as well as track the perception of the users about their products. The experience metrics considered in this case are; the handset type, average TCP retransmission, Average RTT, and Average throughput
