@@ -11,11 +11,11 @@ This category involves understanding our users and their data. For the Telecommu
 Using EDA we can understand how the above metrics relate to each other and to themselves, how they are distributed across the dataset. The different type of analysis techniques we can use are:
 * Non-Graphical Univariate Analysis
 * Graphical Unvariate Analysis
-<img src="/images/graphical_univariate.png">
+![](graphical_univariate.png)
 * Bivariate Analyis
 * Variable Transformation
 * Correlation Analysis
-<img src="/images/correlation_matrix.png">
+![](correlation_matrix.png)
 * Dimensionality Reduction
 
 ### User Engagement Analysis
@@ -23,14 +23,14 @@ This category involves understanding how the Telcomunication company interacts w
 Data analysis in this category is performed mainly through;
 * Computation of Aggregations and
 * Using K-Means Clustering technique
-<img src="/images/experience_cluster.png">
+![](experience_cluster.png)
 
 ### User Experience Analysis
 These analysis helps the telecommunication company/industry understand the needs and requirements of their users as well as track the perception of the users about their products. The experience metrics considered in this case are; the handset type, average TCP retransmission, Average RTT, and Average throughput
 Data analysis involved in this section includes;
 * Computation of aggregations
 * Distribution plotting
-<img src="/images/retransmission.png">
+![](retransmission.png)
 * K-Means Clustering
 
 ### User Satisfaction Analysis
