@@ -9,15 +9,20 @@ User Analytics can be divided into four major categories, namely:
 ### User Overview Analysis
 This category involves understanding our users and their data. For the Telecommunication industry this step would involve understanding the handsets used by customers, the manufacturers of these handsets, the number of sessions held by the customers, the duration per session or as an aggregate, and the total data (upload and download) used by the users during these sessions.
 Using EDA we can understand how the above metrics relate to each other and to themselves, how they are distributed across the dataset. The different type of analysis techniques we can use are:
-* Non-Graphical Univariate Analysis
-* Graphical Unvariate Analysis
-![univariate](graphical_univariate.png)
-* Bivariate Analyis
-* Variable Transformation
-* Correlation Analysis
-![heatmap](correlation_matrix.png)
-* Dimensionality Reduction
-
+<ul>
+  <li>Non-Graphical Univariate Analysis</li>
+  <li>Graphical Unvariate Analysis</li>
+</ul>
+<img src = "/images/graphical_univariate.png">
+<ul>
+  <li>Bivariate Analyis</li>
+  <li>Variable Transformation</li>
+  <li>Correlation Analysis</li>
+</ul>
+<img src = "/images/correlation_matrix.png>
+<ul>
+   <li>Dimensionality Reduction</li>
+</ul>
 ### User Engagement Analysis
 This category involves understanding how the Telcomunication company interacts with its users, and the ways they use for user engagement to ensure Quality of Service (QoS). The engagement metrics here are the session frequencies, the duration of sessions, and the total traffic (download and upload) in regards to the sessions.
 Data analysis in this category is performed mainly through;
