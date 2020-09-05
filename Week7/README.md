@@ -1,5 +1,6 @@
 # Zimnat Insurance Recommendation Challenge - Zindi
 **Client: Zimnat Insurance**
+
 Insurance companies pool and spread risk across a broad customer base. This works best where the population to be insured is diverse and large. Understanding the varied insurance needs of a population, and matching them to appropriate products offered by insurance companies, makes insurance more effective and makes insurance companies more successful. At the heart of this, understanding the consumer of insurance products helps insurance companies refine, diversify, and market their product offerigs. Increased data collection and improved data science tools offer the chance to greatly improve this understanding.
 
 Zimnat Insurance wants a ML model to use customer data to predict which kinds of insurance products to recommend to customers. We will therefore, leverage data and ML methods to improve market outcomes for the company by matching consumer needs with product offerings in the Zimbabwean Insurance market.
