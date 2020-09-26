@@ -12,4 +12,13 @@ In 2019, 10 Academy used the Moodle LMS to manage about 1000 students in their 6
 
 **Challenge:** To explore the 10 Academy Moodle logs stored in the database together with many other relevant tables. By the end of the analysis, we will build a Tableau dashboard that illustrates the progress of students across time.
 
+## Challenge Approach
+The tasks are divided into four sub-tasks
+1. Moodle database schema understanding
+2. Data Extraction Transformation and Loading (ETL)
+3. Dashboard making with Tableau
+4. Automation and Deployment
+
+Task 1 and task 2 are handled in the jupyter notebook provided.
+
 You can find the public tableau dashboard [here](https://public.tableau.com/profile/anastasia.kiiru#!/vizhome/education_log_analysis/Dashboard1?publish=yes)
