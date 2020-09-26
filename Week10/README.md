@@ -11,3 +11,5 @@ In 2019, 10 Academy used the Moodle LMS to manage about 1000 students in their 6
 10 Academy, like any other educational facility, is interested to understand the learners skill and knowledge development, and is interested to build models that are able to predict possible dropouts as well as classify learners into doing, well, doing ok, and struggling groups. 10 Academy is also interested in automating the process of reminding learners approaching deadlines, providing quick feedback based on their overall community engagement and performance. Moreover, given the main goal of 10 Academy training is to make students job ready, it wants to measure students' performance across many relevant metrics. 
 
 **Challenge:** To explore the 10 Academy Moodle logs stored in the database together with many other relevant tables. By the end of the analysis, we will build a Tableau dashboard that illustrates the progress of students across time.
+
+You can find the public tableau dashboard [here](https://public.tableau.com/profile/anastasia.kiiru#!/vizhome/education_log_analysis/Dashboard1?publish=yes)
